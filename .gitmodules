@@ -1,0 +1,3 @@
+[submodule "modulesProject"]
+	path = modulesProject
+	url = git@github.com:dpmdpm94/modulesProject.git
